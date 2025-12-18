@@ -16,21 +16,8 @@
 ### 📫 Correspondence
 
 - 📧 [zehongma@stu.pku.edu.cn](mailto:zehongma@stu.pku.edu.cn)
-- 🐙 [https://github.com/zehong-ma](https://github.com/zehong-ma)
-- 🌐 [https://zehong-ma.github.io](https://zehong-ma.github.io)
 
 ### 🌟 Others
 - 🖋 My introduction at [here](https://zehong-ma.github.io).
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=zehong-ma&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-
-#### 📓 Gists I wrote
-
-
-#### ⭐ Recent Stars
-
-- [laude-institute/harbor](https://github.com/laude-institute/harbor) -  (5 days ago)
-- [laude-institute/terminal-bench](https://github.com/laude-institute/terminal-bench) - A benchmark for LLMs on complicated tasks in the terminal (6 days ago)
-- [SJTU-DMTai/MASTER](https://github.com/SJTU-DMTai/MASTER) - This is the official code and supplementary materials for our AAAI-2024 paper: MASTER: Market-Guided Stock Transformer for Stock Price Forecasting. MASTER is a stock transformer for stock price forecasting, which models the momentary and cross-time stock correlation and guide feature selection with market information. (1 week ago)
-- [centerforaisafety/hle](https://github.com/centerforaisafety/hle) - Humanity&#39;s Last Exam (1 week ago)
-- [ytliu74/FactorVAE](https://github.com/ytliu74/FactorVAE) - Reproduce AAAI22-FactorVAE (1 month ago)
