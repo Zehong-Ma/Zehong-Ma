@@ -19,5 +19,13 @@
 
 ### 🌟 Others
 - 🖋 My introduction at [here](https://zehong-ma.github.io).
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=zehong-ma&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=zehong-ma&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /> -->
+<img
+  align="center"
+  src="https://github-readme-stats.vercel.app/api
+  ?username=zehong-ma
+  &show_icons=true
+  &hide_title=true
+  &theme=default
+  &cache_seconds=86400"
+/>
